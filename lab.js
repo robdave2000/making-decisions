@@ -50,6 +50,14 @@ else
 */
 
 //CODE HERE
+if (amysBirthYear === brittanisBirthYear)
+{
+  console.log("Amy & Brittani were born in the same year");
+}
+else
+{
+  console.log("Amy & Brittani were not born in the same year");
+}
 
 
 ////////// PROBLEM 4 //////////
